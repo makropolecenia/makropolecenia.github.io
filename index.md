@@ -1,4 +1,4 @@
-## Welcome to my XBRL site
+XBRL.PL
 
 XBRL (ang. Extensible Business Reporting Language) – rozszerzalny język sprawozdawczości finansowej. Jest otwartym standardem, zaprojektowanym do wymiany informacji biznesowych. Jego podstawową cechą jest jednoznaczna identyfikacja semantyki elementów sprawozdania, poprzez odniesienie każdego z nich do pewnego słownika, zwanego taksonomią XBRL (ang. XBRL Taxonomy). Dokument zawierający informacje finansowe nosi nazwę instancji XBRL (ang. XBRL Instance).
 
